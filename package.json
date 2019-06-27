@@ -13,6 +13,7 @@
     "file-saver": "^2.0.2",
     "moment": "^2.24.0",
     "mongoose": "^4.13.3",
-    "shortid": "^2.2.14"
+    "shortid": "^2.2.14",
+    "useragent": "^2.3.0"
   }
 }

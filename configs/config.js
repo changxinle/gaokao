@@ -5,7 +5,8 @@ module.exports = {
   // URL: 'mongodb://127.0.0.1:27017/gaokao', //远端数据库  frp.cngrok.com:10786
   URL: 'mongodb://frp.cngrok.com:10786/gaokao',
   DB: 'gaokao',
-  HOST: '127.0.0.1',
+  // HOST: '127.0.0.1',
+  HOST: 'frp.cngrok.com',
   // PORT: 27017,
   PORT: 10786,
   USERNAME: 'root',
