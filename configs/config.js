@@ -1,5 +1,13 @@
 module.exports = {
-
+  requestRetry: 100, //失败重试次数
+  proxy: {
+    host: "dyn.horocn.com",
+    port: "50000",
+    auth:{
+      username:"6OOC1637570102547536",
+      password:"BImgzrTf95Pn"
+    }
+  },
 
   //    数据库配置
   // URL: 'mongodb://127.0.0.1:27017/gaokao', //远端数据库  frp.cngrok.com:10786
