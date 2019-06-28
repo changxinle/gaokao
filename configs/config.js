@@ -1,5 +1,5 @@
 module.exports = {
-  requestRetry: 100, //失败重试次数
+  requestRetry: 2, //失败重试次数
   proxy: {
     host: "dyn.horocn.com",
     port: "50000",
