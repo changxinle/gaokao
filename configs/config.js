@@ -14,11 +14,11 @@ module.exports = {
   URL: 'mongodb://frp.cngrok.com:10786/gaokao',
   DB: 'gaokao',
   // HOST: '127.0.0.1',
-  HOST: 'frp.cngrok.com',
+  HOST: '192.168.10.16',
   // PORT: 27017,
-  PORT: 10786,
-  USERNAME: 'root',
-  PASSWORD: 'root',
+  PORT: 27017,
+  USERNAME: 'admin',
+  PASSWORD: '123456',
 
   // redis配置
   openRedis: true, // 测试或生产环境必须开启
