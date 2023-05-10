@@ -1,8 +1,8 @@
 module.exports = {
   requestRetry: 2, //失败重试次数
   proxy: {
-    host: "dyn.horocn.com",
-    port: "50000",
+    host: "39.185.232.150",
+    port: "9091",
     auth:{
       username:"6OOC1637570102547536",
       password:"BImgzrTf95Pn"
